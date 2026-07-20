@@ -1,6 +1,6 @@
 # Report: UFW HTTP Rule for web-01 and web-02 from lb-01
 
-## Objective
+# Objective
 I attempted to configure a UFW rule on the backend web servers so that they would accept plain-text HTTP traffic only from the load balancer, while keeping the rest of inbound traffic restricted.
 
 ## Environment
